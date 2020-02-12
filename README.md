@@ -1,2 +1,2 @@
 # Data Science Projects
-## Note: Plots may not appear
+## Note: Visuals may not appear 

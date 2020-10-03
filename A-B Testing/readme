@@ -1,6 +1,6 @@
 A/B Testing for e-commerce website uses p-values and logistic regression for answering these questions:
 1- What's the proportion of conversion?
 2- Is there a statistical significant to launch the new page, keep the old page, or give the test more time?
-3- Is there a statistical significant that conversion rate differs from country to country?
-4- Is there a statistical significant that conversion rate differs from country to country if the page type changes from old to new?
+3- Is there a statistical significant that the conversion rate differs from country to country?
+4- Is there a statistical significant that the conversion rate differs from country to country if the page type changes from old to new?
 
